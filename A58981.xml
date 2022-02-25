@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and deplorable news from Fleet-Street, or, A vvarning for lovers, that are either inconstant or too fond being a full and true relation of a gentleman, that having been seven years in love with a lady, and now fancying that she slighted him, and preferred others before him, flung himself desperately out of a window four pairs of stairs high, near Fleet-Bridg; on Friday the 12th of this instant June, 1674. Where he was batter'd all to pieces with the violence of the fall, and miserably dyed. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58981</idno>
+            <idno type="STC">Wing S229</idno>
+            <idno type="STC">ESTC R219823</idno>
+            <idno type="EEBO-CITATION">99831270</idno>
+            <idno type="PROQUEST">99831270</idno>
+            <idno type="VID">35733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and deplorable news from Fleet-Street, or, A vvarning for lovers, that are either inconstant or too fond being a full and true relation of a gentleman, that having been seven years in love with a lady, and now fancying that she slighted him, and preferred others before him, flung himself desperately out of a window four pairs of stairs high, near Fleet-Bridg; on Friday the 12th of this instant June, 1674. Where he was batter'd all to pieces with the violence of the fall, and miserably dyed. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: Sad and deplorable newd from Fleetstreet.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suicide --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35733:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 80 -->
+            <p>Sad and Deplorable News FROM Fleet-Street, OR, A VVARNING FOR LOVERS, That are either INCONSTANT or too FOND;</p>
+            <p>BEING A Full and True Relation of a Gentle<g ref="char:EOLhyphen"/>man, that having been Seven years in Love with a Lady, and now fancying that ſhe ſlighted him, and preferred others before him, flung himſelf de<g ref="char:EOLhyphen"/>ſperately out of a Window Four pair of Stairs high, near <hi>Fleet-Bridg;</hi> on Friday the 12th of this inſtant <hi>June,</hi> 1674.</p>
+            <p>Where he was batter'd all to pieces with the violence of the Fall, and miſerably dyed.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. M.</hi> 1674.</p>
+            <pb facs="tcp:35733:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 81 -->
+            <pb facs="tcp:35733:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 81 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35733:3"/>
+            <!-- PDF PAGE 82 -->
+            <pb n="3" facs="tcp:35733:3"/>
+            <!-- PDF PAGE 82 -->
+            <head>
+               <hi>Sad and deplorable</hi> NEWS FROM Fleetſtreet.</head>
+            <p>MAN is but a Lump of Clay Kneaded to<g ref="char:EOLhyphen"/>gether with Tears and would be the moſt dull and Phlegmatick thing imaginable, had not Nature, or rather the God of Nature, furniſht him with variety of paſſions; that as the change of Tides &amp; ſeveral Winds preſerve the Sea from putrifying, ſo theſe by a continual Agitation ſhould keep him from drooping into a Lethargy of ſtupidity or idleneſs. To fancy to live wholly without Paſſions in this world, is a Romantick Dream of the Stoicks; but to endeavour to moderate and keep them in their right bounds, is the duty, and ſhould be the buſineſs, of each real and prudent Chriſtian.</p>
+            <p>Paſſions and Affections are neceſſary and uſeful Subjects provided they make no Inſurrections, Mu<g ref="char:EOLhyphen"/>tinies or Rebellions to dethrone Reaſon, that juſt
+<pb n="4" facs="tcp:35733:4"/>
+               <!-- PDF PAGE 83 -->Queen Regent and Soveraign Monarch of the Mi<g ref="char:EOLhyphen"/>crocoſme: Every man is ſuch another Creature as the Poets Fancy wiſe <hi>Chiron,</hi> Tutor to the great Hero <hi>Achilles,</hi> to have been half a Man and half a Beaſt, only we ſhould ſo far imitate that prudent Fiction, as to keep the manly part uppermoſt, and make the under-girdle Luſts, together with the iraſcible and concupiſcible faculties, ſubſervient to the dictates of the Rational part.</p>
+            <p>But amongſt all the Paſſions, as there is none ſo pleaſing and noble, ſo there is none ſo dangerous and violent as that of Love: It firſt ſurprizes us by ſtealing in at the eyes as gently as the Morning-dew into the Boſom of a Flower; but no ſooner hath it got to the Heart, and taken poſſeſſion of the Soul, but (like <hi>Nero</hi> after his peaceable <hi>Quinquennium</hi>) it turns abſolute Tyrant on a ſudden; ingroſſes all our thoughts, puts the Breſt upon the wrack, ſcorns the guidance of Reaſon, defies the advice of Friends, grows more violent by oppoſition, deſpiſes ſafety, braves dangers, embraces Ruine; and in a word, torments us with a thouſand Inquietudes, which being more inſufferable than death it ſelf, hurries the afflicted Patient to Court that King of Terrors to put a period to his otherwiſe endleſs Misfortunes. Of the miſchiefs ariſing from hence, all Hiſtories are full, and every day ſurprizes with deplorable Tra<g ref="char:EOLhyphen"/>gedies; and we are ſorry we have this unhappy oc<g ref="char:EOLhyphen"/>caſion to encreaſe the number of thoſe fatal Inſtances. The Story whereof is briefly thus:</p>
+            <p>
+               <pb n="5" facs="tcp:35733:4"/>
+               <!-- PDF PAGE 83 -->
+A Gentleman (well deſcended, and of very good natural parts as well as acquired ones; of a ſweet civil and obliging Temper; a kind of Diſpoſition that more eaſily admits Loves Impreſſions, and continues them longer, and with a greater violence of Paſſion than any other) near ſeven years ago fell into the Ac<g ref="char:EOLhyphen"/>quaintance of a Lady, whoſe amiable Perſon and Qualities immediately kindled ſuch Flames in his Breſt, that it was impoſſible for him longer to main<g ref="char:EOLhyphen"/>tain his Liberty againſt ſuch irreſiſtible Charms: Thoſe that ever were wounded with <hi>Cupids</hi> Darts (and few can wholly eſcape them; Love being a kind of Small Pox, which every body hath had, or elſe muſt expect) may partly imagine the Tumults and Con<g ref="char:EOLhyphen"/>fuſions this new Guect ſoon made in his diſcompoſed mind. To deſcribe the Agonies of this amorous Feaver, or his paſſionate Complaints, would perhaps reliſh too much of the Romance for a Pamphlet, or poſſibly raiſe too great a Tempeſt of Grief in ſome kind ſympathizing Souls, that languiſh now under the like diſaſters. Let it ſuffice to ſay, That he was too wiſe to be ignorant that the Cure muſt be ſought from whence he received the Wound; and there<g ref="char:EOLhyphen"/>fore with a diſcreet Addreſs endeavoured to unvail his Affection, and diſcover his paſſion to that Cruel Fair One which was the Cauſe of them.</p>
+            <p>'Tis an undoubted Truth, That we are generally too credulous and apt, out of a kind of ſelf-flattery, to fancy that which we wiſh and hope for; Upon this ſcore, perhaps, rather than any Encouragements given by her, he built ſome pretenſions, which it may
+<pb n="6" facs="tcp:35733:5"/>
+               <!-- PDF PAGE 84 -->be ſhe never intended him; and in this kind of un<g ref="char:EOLhyphen"/>ſetled ſtate, their amorous Intrigue had now ſpun out a Thred of ſeven years length.</p>
+            <p>It muſt be confeſt that <hi>Ovids</hi> Receit, <hi>
+                  <g ref="char:V">Ʋ</g>t Amoris A<g ref="char:EOLhyphen"/>ma; Love if then wouldſt thou be beloved,</hi> is the beſt Philtre or Love-portion in the world; yet cannot it be denyed, That there may be ſome Caſes wherein even this Charm cannot take place, there may be pre-ingagements a natural Averſion, or a thouſand o<g ref="char:EOLhyphen"/>ther obſtacles that may hinder from correſponding with every perſons Addreſſes, though never ſo ſeri<g ref="char:EOLhyphen"/>ous and affectionate. What the Cauſes in this particu<g ref="char:EOLhyphen"/>lar Amour might be, we cannot certainly aſſign; His Perſon was proper, and one would think rather invi<g ref="char:EOLhyphen"/>ting than diſpleaſing; his Humour excellently good and obliging; his Eſtate not contemptible, and his Practize (which was towards the Law) conſiderable; yet all theſe attractions it ſeems would not conquer or at leaſt ſix this Ladies heart, but that (eſpecially for a Twelve months ſpace laſt paſt) ſhe gave him ſome ſleighting Diſincouragements, which it ſeems he not being able to bear, has for a conſiderable time been liable to extravagant Melancholly Fits; and about two months ſince attempted to hang himſelf in the Balcony of the houſe where he lodged near <hi>Fleet<g ref="char:EOLhyphen"/>bridge,</hi> but was prevented by a Coachman that paſſing by eſpied him; ſince that he has ſeveral times bin with his Miſtreſs, and lately gave her and ſome friends a Treat at a Tavern, where She not appearing ſo kind and Complaiſant to him as he expected, He went home very diſcontented, and though he went in the
+<pb n="7" facs="tcp:35733:5"/>
+               <!-- PDF PAGE 84 -->day-time about his buſineſs ſince; yet he ſtill ſeemed much troubled, and never appeared truly merry or ſatisfied.</p>
+            <p>Melancholly is no doubt, the propereſt Soil for the Devil to ſow his Tares in, when Men abandon their Reaſon and forſake Gods Grace, that would re<g ref="char:EOLhyphen"/>ſtrain them being hurried away with deſperate paſſi<g ref="char:EOLhyphen"/>ons, till all the Soul is in an uproar; then this watch<g ref="char:EOLhyphen"/>ful and ever buſie Enemy ſteps in, ſuggeſting black thoughts of Deſpair, and adviſes a Man to be his own Executioner, aggravating the Miſeries of our preſent Vexations, but concealing theſe endleſs Torments we run the hazard of, by ſuch a precipitate diſpatch, contrary no leſs to Nature than the Laws of God and Man.</p>
+            <p>Whether the Violence of his affectionate Paſſion had deprived him of the uſe of his Reaſon, ſo that he might be numbred amongſt the Phrenſical or Diſtra<g ref="char:EOLhyphen"/>cted, we cannot ſay, but this is too lamentably true, that on <hi>Friday</hi> the 12th of this inſtant <hi>June,</hi> 1674. He coming home to his Lodging, and being about ten a Clock at Night retired up to his Chamber, which was a fine large Room up four pair of Stairs, but forwards towards the Street, no body being with him, on a ſudden opening the Caſement, he violently caſt himſelf headlong into <hi>Fleet-Street</hi> about the mid<g ref="char:EOLhyphen"/>dle of which he fell down, and broke his Head even to the Brain, beſides bruiſing moſt dreadfully all parts of his Body. This ſad unexpected Accident brought to<g ref="char:EOLhyphen"/>gether ſeveral People (then abroad in the Street) a<g ref="char:EOLhyphen"/>bout
+<pb n="8" facs="tcp:35733:6"/>
+               <!-- PDF PAGE 85 -->him, by whom he was taken up dead, but be<g ref="char:EOLhyphen"/>ing known and carried into his Lodging, and ſome means uſed, he came again to Life, but was never able to ſpeak one word, and a little after midnight ex<g ref="char:EOLhyphen"/>pired.</p>
+            <p>We ſhall not foreſtall the Readers thoughts ſo far as to make tedious reflections on this ſad &amp; unhappy Accident, nor can we do it without difficulty or par<g ref="char:EOLhyphen"/>tiality; For what ſhall we blame the Coyneſs and Cruelty of Women, or the Folly and over fond<g ref="char:EOLhyphen"/>neſs of Men? If it be hard meaſure for a man to have his paſſionate Affection ſleighted; 'tis ſure no leſs unjuſt and unreaſonable to expect a Woman ſhould Love where ſhe does not like; It will be better to adviſe all by this woful Example to take heed not to engage their Affections too far on any (though the moſt pleaſing) Earthly Object, and to raiſe their Love to a higher and more noble flight, by placing it on that Divine, Infinite and Adorable Beauty, where it can admit of no Extream, and ſhall be ſure not to be fruſtrated of unſpeakable Returns of Fa<g ref="char:EOLhyphen"/>vour and Goodneſs, whoſe Love infinitely ſurpaſſing the Love of Women, diſdain'd not to dye for us, even whilſt we were Enemies, and in whoſe glori<g ref="char:EOLhyphen"/>ous Arms, we may ſafely without jealouſies, diſtruſts or fears, without apprehenſion of change, or cloying ſatiety, Repoſe our ſelves in a ſweet Eternity of un<g ref="char:EOLhyphen"/>utterable Felicity.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35733:6"/>
+            <!-- PDF PAGE 85 -->
+         </div>
+      </body>
+   </text>
+</TEI>
